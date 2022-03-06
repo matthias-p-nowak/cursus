@@ -1,0 +1,5 @@
+port: 9999
+range: 10
+interval: 30
+peers:
+  - envy
